@@ -11,5 +11,5 @@ export default StyleSheet.create({
         marginVertical: 20,
         color: 'black',
         fontFamily: 'open-sans-bold'
-    }
+    },
 });
